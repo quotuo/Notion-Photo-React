@@ -3,7 +3,7 @@
 module.exports = {
     global: {
         site: {
-            name: 'Notion Photo React Example',
+            name: 'Notion Photo React ',
             description: 'Photo Gallery built with Notion, React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.',
             url: 'https://npr.okis.dev/',
             author: 'Harry Yep',
