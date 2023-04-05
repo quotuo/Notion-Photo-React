@@ -3,21 +3,20 @@
 module.exports = {
     global: {
         site: {
-            name: 'Notion Photo React ',
-            description: 'Photo Gallery built with Notion, React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.',
-            url: 'https://npr.okis.dev/',
-            author: 'Harry Yep',
+            name: '世界上只有一种英雄主义，那就是在看清生活的真相之后，依然热爱生活。',
+            description: '',
+            url: 'https://luyanshi.eu.org',
+            author: '陆焉识',
             banner_img: `https://cdn.harrly.com/project/GitHub/Notion-Photo-React/img/Notion-Photo-React.Banner.png`,
-            nav: [
-                {
+            nav: [{
                     name: 'Home',
                     url: '/',
                     external: false,
                     position: 'left',
                 },
                 {
-                    name: 'GitHub',
-                    url: 'https://github.com/okisdev',
+                    name: 'Blog',
+                    url: 'https://yousi.eu.org',
                     external: true,
                     position: 'right',
                 },
@@ -31,14 +30,14 @@ module.exports = {
         },
         content: {
             header: {
-                description: `A Photo Gallery built with <a href='https://notion.so/' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>Notion</a>, <a href='https://nextjs.org/' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>Next.js</a>, <a href='https://tailwindcss.com/' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>tailwindcss</a>, <a href='https://www.typescriptlang.org/' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>TypeScript</a>, <a href='https://github.com/splitbee/notion-api-worker' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>Notion-Api-Worker</a> and more. (Find more on <a href='https://github.com/Harry-Yep/Notion-Photo-React' class='transition duration-500 underline hover:bg-yellow-500 dark:hover:bg-yellow-600' target='_blank' rel='noopener noreferrer'>GitHub</a>)`,
+                description: ``,
             },
             license: {
                 name: 'CC BY-NC-SA 4.0',
                 url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
             },
             footer: {
-                copyright: 'Copyright © 2023 Harry Yep. All rights reserved.',
+                copyright: 'Copyright © 2023 Luyanshi. All rights reserved.',
             },
         },
         analytics: {
